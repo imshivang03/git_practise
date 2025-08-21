@@ -1,3 +1,3 @@
-## This is the git tutorials by Shivang.
+# This is the git tutorials by Shivang.
 
-# We will learn git in this tutorial.
+## We will learn git in this tutorial.
